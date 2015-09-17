@@ -181,7 +181,6 @@ if(dir == 4)
     Sleep(80);
 }
 
- //   pintar();
 
 system("pause");
 
